@@ -10,7 +10,7 @@ Gioia, Mateo  (238327) -> Usuario Github:
 Martínez, Gabriel (188532) -> Usuario Github:
 Orlinski, Fabio  (173630) -> Usuario Github:
 Pintos, Iara  (191748) -> Usuario Github:
-Plada, Marcelo (210977) -> Usuario Github:
+Plada, Marcelo (210977) -> Usuario Github:mjplada
 Poittevin, Juan Pablo (169766) -> Usuario Github: juanpaps03
 Ramírez, Fabio (218566) -> Usuario Github:
 Silva, Vincent (212677) -> Usuario Github:
